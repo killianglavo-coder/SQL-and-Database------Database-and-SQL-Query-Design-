@@ -26,5 +26,5 @@ Five stakeholders where chosen to be the focus for the views:
 * Beneficiaries
 * Journalists
 
-Expected output and reasoning available [here](https://github.com/killianglavo-coder/SQL-and-Database------Database-and-SQL-Query-Design-/blob/main/SQL%20Script%20Explanation.pdf) \
-SQL Scripts for entirety of project available [here](https://github.com/killianglavo-coder/SQL-and-Database------Database-and-SQL-Query-Design-/blob/main/SQL%20Scripts.zip)
+Expected output and reasoning [available here](https://github.com/killianglavo-coder/SQL-and-Database------Database-and-SQL-Query-Design-/blob/main/SQL%20Script%20Explanation.pdf) \
+SQL Scripts for entirety of project [available here](https://github.com/killianglavo-coder/SQL-and-Database------Database-and-SQL-Query-Design-/blob/main/SQL%20Scripts.zip)
