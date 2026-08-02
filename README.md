@@ -14,8 +14,7 @@ ERD:
 
 # Database Creation:
 
-After creating the flow of the database using the above ERD, the dummy database was created use SQL code table creation: here and insert statements for data: here.
-
+After creating the flow of the database using the above ERD, the dummy database was created using SQL code table creation and insert statements for data.\
 After this process was completed views where designed and created. 
 
 # SQL Views and Queries: 
