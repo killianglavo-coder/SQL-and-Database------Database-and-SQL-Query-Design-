@@ -1,6 +1,6 @@
 # SQL-and-Database------Database-and-SQL-Query-Design-
 # Project Outline:
-* Create a database incorporating aspects for the Trócaire-homepage[link](https://www.trocaire.org/).
+* Create a database incorporating aspects for the [Trócaire-homepage](https://www.trocaire.org/).
 * Design dummy dataset for use in SQL querying.
 * Create five distinct query views in SQL for use by various stakeholders.
 * Explain the reasoning behind making these SQL views.
