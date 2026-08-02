@@ -3,7 +3,7 @@
 * Create a database incorporating aspects for the [Trócaire-homepage](https://www.trocaire.org/).
 * Design dummy dataset for use in SQL querying.
 * Create five distinct query views in SQL for use by various stakeholders.
-* Explain the reasoning behind making these SQL views.
+* Explain the reasoning and use of these SQL views.
 
 # Database Design:
 
@@ -19,7 +19,12 @@ After creating the flow of the database using the above ERD, the dummy database 
 After this process was completed views where designed and created. 
 
 # SQL Views and Queries: 
-Five stakeholders 
+Five stakeholders where chosen to be the focus for the views:
+* Donator
+* Volunteer
+* General Public
+* Beneficiaries
+* Journalists
 
-
-
+Expected output and reasoning available here
+SQL Scripts for entirety of project available here
