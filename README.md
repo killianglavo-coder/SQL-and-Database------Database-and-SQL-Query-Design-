@@ -12,7 +12,7 @@ The design for this database was focused on reaching third normal form. This was
 ERD:
 <img width="1102" height="377" alt="image" src="https://github.com/user-attachments/assets/cc73ccba-9dc0-44f7-9d97-ebd6b305963d" />
 
-# Dummy Data Creation:
+# Database Creation:
 
 After creating the flow of the database using the above ERD, the dummy database was created use SQL code table creation: here and insert statements for data: here.
 
